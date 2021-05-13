@@ -19,7 +19,7 @@ if data['status'] == 'OK':
     f = open("div3.txt","w+")
     cnt = 1
     for i in div3:
-        temp = 'Div2 '
+        temp = 'Div3 '
         temp += str(cnt)
         temp += ':  '
         temp += link+str(i)
