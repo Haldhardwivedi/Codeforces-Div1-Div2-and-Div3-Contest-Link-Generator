@@ -1,1 +1,1 @@
-# Codeforces-Div1-Div2-and-Div3-All-Contest-Link-Generator
+# Just run the div1.py to generate the link for contest till now  same with all the other files
