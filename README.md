@@ -1,1 +1,2 @@
- Just run the div1.py to generate the link for contest till now  same with all the other files
+run the div1.py
+a new file named div1.txt will be generated with the link of all the div1 contest till now 
